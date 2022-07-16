@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-ul{
+header ul{
     list-style: none;
     margin: 10px;
     width: 250px;
@@ -16,6 +16,7 @@ header li{
     width: 100px;
     text-align: right;
 }
+
 a{
     text-decoration: none;
     color: rgb(230, 203, 248);;
@@ -28,6 +29,7 @@ a{
     align-items: center;
     justify-content: space-between;
 }
+
 #page-logo a{
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
