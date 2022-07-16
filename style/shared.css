@@ -1,0 +1,39 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header li{
+    width: 100px;
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    color: rgb(230, 203, 248);;
+}
+
+#container{
+    background-color: rgb(77, 19, 87);
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+#page-logo a{
+    padding: 10px;
+    font-family: "Oleo Script", sans-serif;
+    color: rgb(230, 203, 248);
+    font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px grey;
+}
